@@ -19,7 +19,7 @@ To forecast sales for the upcoming year based on historical data and compare dif
 4. **Line Chart** – to compare actual vs. predicted values for better insight.
 
 ## 📷 Visuals
-![Forecast Line Chart](./Screenshots/chart_preview.png)
+![Forecast Line Chart](./forcast_img.png)
 
 ## 📁 File Structure
 - `sales_forecasting.pbix` – The main Power BI file
